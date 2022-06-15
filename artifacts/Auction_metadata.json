@@ -1,0 +1,35 @@
+{
+	"compiler": {
+		"version": "0.4.17+commit.bdeb9e52"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Auction.sol": "Auction"
+		},
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Auction.sol": {
+			"keccak256": "0xa8d6d7322270b5e47663f32ee1fea0effc2f30c40457a6e58a2a5eb785efeaf4",
+			"urls": [
+				"bzzr://9353f06f45c140865253aa8a5fa8525946510590f04ab3de5942031873f211c2"
+			]
+		}
+	},
+	"version": 1
+}
