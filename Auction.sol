@@ -67,6 +67,7 @@ contract Auction{
 
             bidders[winnerId].personId = winnerId;              
             }
+        }
     }
 
     //Miscellaneous methods: Below methods are used to assist Grading. Please DONOT CHANGE THEM.
